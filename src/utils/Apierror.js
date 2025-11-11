@@ -15,3 +15,4 @@ class ApiError extends Error{
         this.stack=stack;
     }
 }
+export {ApiError};
