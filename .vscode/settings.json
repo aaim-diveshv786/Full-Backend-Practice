@@ -1,0 +1,27 @@
+{
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggest.showFunctions": true,
+  "editor.suggest.showClasses": true,
+  "editor.suggest.showVariables": true,
+  "editor.suggest.showSnippets": true,
+  "editor.suggest.showMethods": true,
+  "editor.suggest.showProperties": true,
+  "editor.suggest.showEnums": true,
+  "editor.suggest.showKeywords": true,
+  "editor.suggest.showModules": true,
+  "editor.suggest.showValues": true,
+  "editor.suggest.showConstantSnippets": true,
+  "javascript.suggest.enabled": true,
+  "typescript.suggest.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+},
+"github.copilot.enable": {
+    "*": false
+}
+}
